@@ -29,4 +29,7 @@ Estudo Ciência da Computação na Universidade Estácio de Sá - Campus Recreio
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="center" height="50" width="100" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<a href="https://seekvectorlogo.com/sap-vector-logo-svg/" target="_blank">
+   <img align="center" height="50" width="100" src="https://seekvectorlogo.com/wp-content/uploads/2017/12/sap-vector-logo.png" />
+</a>
 </div>
