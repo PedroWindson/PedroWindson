@@ -1,13 +1,13 @@
 ### Olá! Me chamo Pedro Windson 😁
 
-Estudo Ciência da Computação na Universidade Estácio de Sá - Campus Recreio e estou no oitavo período
+Recém formado em Ciência da Computação pela Universidade Estácio de Sá - Campus Recreio
 - 🔭 Atualmente estou a procura do meu primeiro emprego.
 - 🌱 No momento estou focando meus estudos nos sistemas SAP
 - 📫 Contate-me: <div><a href="mailto:pedrowindson564@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 - ✨ Veja meu LinkedIn:<div><a href="https://www.linkedin.com/in/pedro-windson-1ab58b212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 - ⚡ Mais sobre mim:
 
-   1 - Amo programação, pois isso me faz estar sempre aprendendo algo novo para acompanhar as novas tecnologias que surgem diariamente.
+   1 - Amo programação, pois essa área me faz estar sempre aprendendo algo novo para acompanhar as novas tecnologias que surgem diariamente.
 
    2 - Meus hobbies são: Jogos e música
 
