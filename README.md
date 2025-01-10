@@ -8,7 +8,7 @@ Formado em Ciência da Computação pela Universidade Estácio de Sá - Campus R
 
    1 - Amo programação, pois essa área me faz estar sempre aprendendo algo novo para acompanhar as novas tecnologias que surgem diariamente.
 
-   2 - Possuo experiência prática com Banco de Dados MySQL, programação de páginas web com PHP, HTML e CSS, montagem e manutenção de computadores, montagem e manutenção de redes
+   2 - Possuo experiência prática com Banco de Dados MySQL, programação de páginas web com PHP, HTML e CSS, montagem e manutenção de computadores, montagem e manutenção de redes e programação de microcontroladores (Arduíno)
 
    3 - Meus hobbies são: Jogos e música
 
