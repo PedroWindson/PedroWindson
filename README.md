@@ -1,15 +1,18 @@
 ### Olá! Me chamo Pedro Windson 😁
 
-Recém formado em Ciência da Computação pela Universidade Estácio de Sá - Campus Recreio
+Formado em Ciência da Computação pela Universidade Estácio de Sá - Campus Recreio
+
 - 📫 Contate-me: <div><a href="mailto:pedrowindson564@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 - ✨ Veja meu LinkedIn:<div><a href="https://www.linkedin.com/in/pedro-windson-1ab58b212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 - ⚡ Mais sobre mim:
 
    1 - Amo programação, pois essa área me faz estar sempre aprendendo algo novo para acompanhar as novas tecnologias que surgem diariamente.
 
-   2 - Meus hobbies são: Jogos e música
+   2 - Possuo experiência prática com Banco de Dados MySQL, programação de páginas web com PHP, HTML e CSS, montagem e manutenção de computadores, montagem e manutenção de redes
 
-   3 - Tenho facilidade de interagir com as pessoas e gosto de interagir principalmente com quem pensa diferente de mim, pois com isso, consigo entender os mais diferentes pontos de vista.
+   3 - Meus hobbies são: Jogos e música
+
+   4 - Tenho facilidade de interagir com as pessoas e gosto de interagir principalmente com quem pensa diferente de mim, pois com isso, consigo entender os mais diferentes pontos de vista.
 
 <div>
   <a href="https://github.com/PedroWindson/github-readme-stats">
