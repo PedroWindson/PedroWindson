@@ -8,16 +8,30 @@
 
 - ⚡ Sobre mim:
   1. Sou apaixonado por programação e pelo desafio constante de aprender novas tecnologias.
-  2. Atualmente, estou me especializando em Ciência de Dados e Inteligência Artificial, explorando novas aplicações e soluções baseadas em dados.
+  2. Atualmente, estou me especializando em Ciência de Dados e Inteligência Artificial, explorando novas aplicações e soluções baseadas em dados e me aprofundando nos sistemas SAP.
   3. Meus hobbies incluem jogos e música. 🎮🎵
   4. Tenho facilidade em me comunicar e gosto de conversar com pessoas de diferentes perspectivas, pois acredito que isso enriquece minha visão de mundo.
   
 - 👨🏻‍💻 Possuo experiência prática em:
-  1. Banco de Dados: MySQL
-  2. Back-End: Criação de automações utilizando Python e scripts .bat para rodar como executável no Windows
-  3. Desenvolvimento Web: PHP, HTML, CSS
-  4. Infraestrutura: Montagem e manutenção de computadores e redes
-  5. Programação de Microcontroladores: Arduino
+
+  * Banco de Dados: MySQL.
+
+  * Back-End: Python, Java, Ruby.
+
+  * Front-End: HTML, CSS, JavaScript, PHP, jQuery, Angular.
+
+  * Análise de dados: Como exercício para a pós-graduação, criei um programa em Python que usa a **regressão linear** para prever as vendas de um determinado produto com base nos gastos com publicidade, otimizando o orçamento de marketing de uma startup fictícia.
+
+  * Transcrição e Tradução de Fala: Como exercício para a pós-graduação, criei um programa em Python que transcreve áudios de um microfone ou arquivo para texto e traduz para outros idiomas, utilizando os serviços de inteligência artificial da Azure.
+
+  * Sistema de Gerenciamento e Recomendação de Livros utilizando LLMs: Como exercício para a pós-graduação, criei um programa Python que gerencia o inventário de livros em uma livraria fictícia, permitindo adicionar, verificar e remover exemplares, além de 
+    oferecer recomendações simuladas de livros baseadas em descrições do cliente.
+
+  * Infraestrutura: Montagem e manutenção de computadores e redes.
+
+  * Programação de Microcontroladores: Arduino.
+
+  * SAP: Participei de bootcamps e concluí diversas trilhas de aprendizado sobre SAP BTP e SAP BI.
 
 <div>
   <a href="https://github.com/PedroWindson/github-readme-stats">
