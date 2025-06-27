@@ -32,6 +32,7 @@
   * Programação de Microcontroladores: Arduino.
 
   * SAP: Participei de bootcamps e concluí diversas trilhas de aprendizado sobre SAP BTP e SAP BI.
+    
 
 <div>
   <a href="https://github.com/PedroWindson/github-readme-stats">
